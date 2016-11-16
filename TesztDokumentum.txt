@@ -1,1 +1,1 @@
-Alma van a fán
+for(int i=0;i<5;i++)
